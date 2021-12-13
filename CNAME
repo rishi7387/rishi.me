@@ -1,8 +1,1 @@
-$dig WWW.rishi7387.com +nostats +nocomments +nocmd
-;WWW.rishi7387.com.   IN  A
-WWW.rishi7387.com.    26728 IN CNAME  MYUSERNAME.github.io.
-rishi7387.github.io.   1527    IN  A   185.199.108.153
-rishi7387.github.io.   1527    IN  A   185.199.111.153
-rishi7387.github.io.   1527    IN  A   185.199.110.153
-rishi7387.github.io.   1527    IN  A   185.199.109.153
-rishi.me.   1527    IN  A   185.199.109.153
+rishi.me
